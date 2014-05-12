@@ -1,0 +1,10 @@
+{
+  "name": "errors",
+  "description": "Un pattern para mostrar errores a los usuarios",
+  "homepage": "https://github.com/nelsao101/user-errors-display",
+  "author": "Nelson Rodriguez <nelsao101@yahoo.com>",
+  "version": "0.1.0",
+  "git": "https://github.com/nelsao101/user-errors-display.git",
+  "packages": {
+  }
+}
